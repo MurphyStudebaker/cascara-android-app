@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Delete Account"
+        android:id="@+id/delete_account"
+        android:icon="@drawable/ic_free_breakfast"
+        app:showAsAction="never"/>
+    <item android:title="Export Checkins"
+        android:id="@+id/export"
+        android:icon="@drawable/ic_free_breakfast"
+        app:showAsAction="never"/>
+    <item android:title="Log Out"
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_free_breakfast"
+        app:showAsAction="never"/>
+</menu>
