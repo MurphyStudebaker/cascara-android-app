@@ -1,7 +1,16 @@
 # Cascara Coffee Shop App
 This is the final project for my Android Development and Database Management courses. You can read about the process of building this application at https://medium.com/@murphystude/promoting-coffee-culture-with-a-mobile-app-31162ba11989.
 
-# Set Up
+## Tools Used
+- Android Studio (AndroidX)
+- Java
+- Volley HTTP library
+- PHP
+- Postman
+- MySQL
+- XAMPP
+
+### Set Up
 The app will run without connection to the database if you log in with the username and password "root." However, no data will be displayed. 
 To view the application as it is intended to function (that is, with a database connection) complete the following steps:
 1. Clone this repository.
